@@ -20,10 +20,32 @@ Introduce a brand or creative tool with screen collages, editorial transitions a
 
 ## What to prepare
 
-- **Required:** Sourceedits: content items, at most 256 items.
+- **Required:** Sourceedits: content items, at most 0 items.
 - **Required:** Voiceover: text, up to 240 characters.
+- **Required:** Voiceovermode: text. Explicit current-production voice choice; no original-mix fallback..
+- **Required:** Soundtrackmode: text. Current music plus original effects; no music but effects; or no music/effects. Voice remains an independent explicit choice..
+- **Required:** Music: text, up to 240 characters. Current-input relative audio file, required for external-music and empty otherwise..
+- **Required:** Wall00: content group.
+- **Required:** Wall01: content group.
+- **Required:** Wall02: content group.
+- **Required:** Wall03: content group.
+- **Required:** Wall04: content group.
+- **Required:** Wall05: content group.
+- **Required:** Wall06: content group.
+- **Required:** Wall07: content group.
+- **Required:** Wall08: content group.
+- **Required:** Wall09: content group.
+- **Required:** Wall10: content group.
+- **Required:** Wall11: content group.
+- **Required:** Demo: content group.
+- **Required:** Portrait: content group.
+- **Required:** Ast 01: text, up to 64 characters.
+- **Required:** Ast 02: text, up to 64 characters.
+- **Required:** Ast 03: text, up to 64 characters.
+- **Required:** Ast 04: text, up to 64 characters.
+- **Required:** Ast 05: text, up to 64 characters.
 
-Adapt the existing product copy, data and brand slots while preserving the complete native animation, composition and timeline..
+Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX..
 
 ## Let your assistant guide you
 

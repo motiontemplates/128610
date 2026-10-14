@@ -4,7 +4,7 @@ This is a public introduction, not an executable template. Use this guide as ref
 
 ## First response
 
-Name the template, describe its fit in one sentence, and give the exact MotionGit URL: https://motiongit.com/@motiongit/motiongit-promo-main. Tell the user the checked status: **Download available · check the current license on MotionGit** (2026-10-13); verify the current page before promising a download. Ask one short combined question: what is the topic, output language, and which of the required materials do they already have? Offer to prepare a brief while they register or wait for download.
+Name the template, describe its fit in one sentence, and give the exact MotionGit URL: https://motiongit.com/@motiongit/motiongit-promo-main. Tell the user the checked status: **Download available · check the current license on MotionGit** (2026-10-14); verify the current page before promising a download. Ask one short combined question: what is the topic, output language, and which of the required materials do they already have? Offer to prepare a brief while they register or wait for download.
 
 ## Before the package is supplied
 
@@ -26,8 +26,30 @@ Name the template, describe its fit in one sentence, and give the exact MotionGi
 
 ### Materials
 
-- **Required:** Sourceedits: content items, at most 256 items.
+- **Required:** Sourceedits: content items, at most 0 items.
 - **Required:** Voiceover: text, up to 240 characters.
+- **Required:** Voiceovermode: text. Explicit current-production voice choice; no original-mix fallback..
+- **Required:** Soundtrackmode: text. Current music plus original effects; no music but effects; or no music/effects. Voice remains an independent explicit choice..
+- **Required:** Music: text, up to 240 characters. Current-input relative audio file, required for external-music and empty otherwise..
+- **Required:** Wall00: content group.
+- **Required:** Wall01: content group.
+- **Required:** Wall02: content group.
+- **Required:** Wall03: content group.
+- **Required:** Wall04: content group.
+- **Required:** Wall05: content group.
+- **Required:** Wall06: content group.
+- **Required:** Wall07: content group.
+- **Required:** Wall08: content group.
+- **Required:** Wall09: content group.
+- **Required:** Wall10: content group.
+- **Required:** Wall11: content group.
+- **Required:** Demo: content group.
+- **Required:** Portrait: content group.
+- **Required:** Ast 01: text, up to 64 characters.
+- **Required:** Ast 02: text, up to 64 characters.
+- **Required:** Ast 03: text, up to 64 characters.
+- **Required:** Ast 04: text, up to 64 characters.
+- **Required:** Ast 05: text, up to 64 characters.
 
 ### Setup
 
@@ -38,7 +60,8 @@ Name the template, describe its fit in one sentence, and give the exact MotionGi
 
 - The documented output is 1920 × 1080, 60 fps; default demo duration is 57 seconds.
 - Use the actual package parameter bounds; extra materials do not automatically create extra scenes.
-- Changing the scene order or engine; the frozen original source and timeline remain authoritative.
+- Changing scene order, output duration or engine; these are not parameters of this fixed native arrangement.
+- Declaring arbitrary copy length or every product topic suitable without actual layout and semantic review.
 
 ### Services
 

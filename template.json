@@ -5,7 +5,7 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-main",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-main",
-  "checkedAt": "2026-10-13",
+  "checkedAt": "2026-10-14",
   "availability": "download-available",
   "title": {
     "en": "Screen Collage · Brand Story",
@@ -35,13 +35,123 @@
   },
   "materials": [
     {
-      "en": "Sourceedits: content items, at most 256 items.",
-      "zh": "Sourceedits：内容，最多 256 项。",
+      "en": "Sourceedits: content items, at most 0 items.",
+      "zh": "Sourceedits：内容，最多 0 项。",
       "required": true
     },
     {
       "en": "Voiceover: text, up to 240 characters.",
       "zh": "Voiceover：文字，不超过 240 个字符。",
+      "required": true
+    },
+    {
+      "en": "Voiceovermode: text. Explicit current-production voice choice; no original-mix fallback..",
+      "zh": "Voiceovermode：文字。",
+      "required": true
+    },
+    {
+      "en": "Soundtrackmode: text. Current music plus original effects; no music but effects; or no music/effects. Voice remains an independent explicit choice..",
+      "zh": "Soundtrackmode：文字。",
+      "required": true
+    },
+    {
+      "en": "Music: text, up to 240 characters. Current-input relative audio file, required for external-music and empty otherwise..",
+      "zh": "Music：文字，不超过 240 个字符。",
+      "required": true
+    },
+    {
+      "en": "Wall00: content group.",
+      "zh": "Wall00：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall01: content group.",
+      "zh": "Wall01：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall02: content group.",
+      "zh": "Wall02：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall03: content group.",
+      "zh": "Wall03：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall04: content group.",
+      "zh": "Wall04：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall05: content group.",
+      "zh": "Wall05：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall06: content group.",
+      "zh": "Wall06：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall07: content group.",
+      "zh": "Wall07：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall08: content group.",
+      "zh": "Wall08：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall09: content group.",
+      "zh": "Wall09：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall10: content group.",
+      "zh": "Wall10：内容组。",
+      "required": true
+    },
+    {
+      "en": "Wall11: content group.",
+      "zh": "Wall11：内容组。",
+      "required": true
+    },
+    {
+      "en": "Demo: content group.",
+      "zh": "Demo：内容组。",
+      "required": true
+    },
+    {
+      "en": "Portrait: content group.",
+      "zh": "Portrait：内容组。",
+      "required": true
+    },
+    {
+      "en": "Ast 01: text, up to 64 characters.",
+      "zh": "Ast 01：文字，不超过 64 个字符。",
+      "required": true
+    },
+    {
+      "en": "Ast 02: text, up to 64 characters.",
+      "zh": "Ast 02：文字，不超过 64 个字符。",
+      "required": true
+    },
+    {
+      "en": "Ast 03: text, up to 64 characters.",
+      "zh": "Ast 03：文字，不超过 64 个字符。",
+      "required": true
+    },
+    {
+      "en": "Ast 04: text, up to 64 characters.",
+      "zh": "Ast 04：文字，不超过 64 个字符。",
+      "required": true
+    },
+    {
+      "en": "Ast 05: text, up to 64 characters.",
+      "zh": "Ast 05：文字，不超过 64 个字符。",
       "required": true
     }
   ],
@@ -57,17 +167,18 @@
   ],
   "goodFor": {
     "en": [
-      "Adapt the existing product copy, data and brand slots while preserving the complete native animation, composition and timeline."
+      "Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX."
     ],
     "zh": [
-      "Adapt the existing product copy, data and brand slots while preserving the complete native animation, composition and timeline."
+      "Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX."
     ]
   },
   "boundaries": {
     "en": [
       "The documented output is 1920 × 1080, 60 fps; default demo duration is 57 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
-      "Changing the scene order or engine; the frozen original source and timeline remain authoritative."
+      "Changing scene order, output duration or engine; these are not parameters of this fixed native arrangement.",
+      "Declaring arbitrary copy length or every product topic suitable without actual layout and semantic review."
     ],
     "zh": [
       "已声明输出为 1920 × 1080，60 fps；默认样片 57 秒。",

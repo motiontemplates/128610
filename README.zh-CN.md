@@ -20,10 +20,32 @@
 
 ## 准备什么
 
-- **必需:** Sourceedits：内容，最多 256 项。
+- **必需:** Sourceedits：内容，最多 0 项。
 - **必需:** Voiceover：文字，不超过 240 个字符。
+- **必需:** Voiceovermode：文字。
+- **必需:** Soundtrackmode：文字。
+- **必需:** Music：文字，不超过 240 个字符。
+- **必需:** Wall00：内容组。
+- **必需:** Wall01：内容组。
+- **必需:** Wall02：内容组。
+- **必需:** Wall03：内容组。
+- **必需:** Wall04：内容组。
+- **必需:** Wall05：内容组。
+- **必需:** Wall06：内容组。
+- **必需:** Wall07：内容组。
+- **必需:** Wall08：内容组。
+- **必需:** Wall09：内容组。
+- **必需:** Wall10：内容组。
+- **必需:** Wall11：内容组。
+- **必需:** Demo：内容组。
+- **必需:** Portrait：内容组。
+- **必需:** Ast 01：文字，不超过 64 个字符。
+- **必需:** Ast 02：文字，不超过 64 个字符。
+- **必需:** Ast 03：文字，不超过 64 个字符。
+- **必需:** Ast 04：文字，不超过 64 个字符。
+- **必需:** Ast 05：文字，不超过 64 个字符。
 
-Adapt the existing product copy, data and brand slots while preserving the complete native animation, composition and timeline..
+Fixed57s landscape product film using current copy, brand artwork, graph labels and supplied image/video carriers. Preserve source scene order, motion and independent SFX..
 
 ## 让 AI 引导你
 
