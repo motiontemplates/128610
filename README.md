@@ -8,7 +8,7 @@ Introduce a brand or creative tool with screen collages, editorial transitions a
 
 [**Get this template on MotionGit ↗**](https://motiongit.com/@motiongit/motiongit-promo-main) · [简体中文](README.zh-CN.md)
 
-> Demo live · template download coming soon. Check the live page for availability. Register/sign in and obtain your own .motion when download opens.
+> Download available · check the current license on MotionGit. Check the live page for availability. Register/sign in and obtain your own .motion when download opens.
 
 ## Demo
 
