@@ -48,124 +48,29 @@
   },
   "materials": [
     {
-      "en": "Sourceedits: content items, at most 0 items.",
-      "zh": "Sourceedits：内容，最多 0 项。",
+      "en": "The current brand name, logo and applicable feature icons.",
+      "zh": "本期品牌名称、Logo，以及实际需要的功能图标。",
       "required": true
     },
     {
-      "en": "Voiceover: text, up to 240 characters.",
-      "zh": "Voiceover：文字，不超过 240 个字符。",
+      "en": "Your topic, script and facts to preserve.",
+      "zh": "本期主题、文稿与需要准确保留的信息。",
       "required": true
     },
     {
-      "en": "Voiceovermode: text. Explicit current-production voice choice; no original-mix fallback..",
-      "zh": "Voiceovermode：文字。",
+      "en": "Current product screenshots, screen recordings and display materials for the declared media slots.",
+      "zh": "声明素材槽位对应的本期产品截图、录屏与展示内容。",
       "required": true
     },
     {
-      "en": "Soundtrackmode: text. Current music plus original effects; no music but effects; or no music/effects. Voice remains an independent explicit choice..",
-      "zh": "Soundtrackmode：文字。",
-      "required": true
+      "en": "A licensed music track or your preference for music in this production.",
+      "zh": "本期已授权配乐，或本期是否需要配乐的偏好。",
+      "required": false
     },
     {
-      "en": "Music: text, up to 240 characters. Current-input relative audio file, required for external-music and empty otherwise..",
-      "zh": "Music：文字，不超过 240 个字符。",
-      "required": true
-    },
-    {
-      "en": "Wall00: content group.",
-      "zh": "Wall00：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall01: content group.",
-      "zh": "Wall01：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall02: content group.",
-      "zh": "Wall02：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall03: content group.",
-      "zh": "Wall03：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall04: content group.",
-      "zh": "Wall04：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall05: content group.",
-      "zh": "Wall05：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall06: content group.",
-      "zh": "Wall06：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall07: content group.",
-      "zh": "Wall07：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall08: content group.",
-      "zh": "Wall08：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall09: content group.",
-      "zh": "Wall09：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall10: content group.",
-      "zh": "Wall10：内容组。",
-      "required": true
-    },
-    {
-      "en": "Wall11: content group.",
-      "zh": "Wall11：内容组。",
-      "required": true
-    },
-    {
-      "en": "Demo: content group.",
-      "zh": "Demo：内容组。",
-      "required": true
-    },
-    {
-      "en": "Portrait: content group.",
-      "zh": "Portrait：内容组。",
-      "required": true
-    },
-    {
-      "en": "Ast 01: text, up to 64 characters.",
-      "zh": "Ast 01：文字，不超过 64 个字符。",
-      "required": true
-    },
-    {
-      "en": "Ast 02: text, up to 64 characters.",
-      "zh": "Ast 02：文字，不超过 64 个字符。",
-      "required": true
-    },
-    {
-      "en": "Ast 03: text, up to 64 characters.",
-      "zh": "Ast 03：文字，不超过 64 个字符。",
-      "required": true
-    },
-    {
-      "en": "Ast 04: text, up to 64 characters.",
-      "zh": "Ast 04：文字，不超过 64 个字符。",
-      "required": true
-    },
-    {
-      "en": "Ast 05: text, up to 64 characters.",
-      "zh": "Ast 05：文字，不超过 64 个字符。",
-      "required": true
+      "en": "The current voice recording or your narration preference for this production.",
+      "zh": "本期配音文件，或是否需要配音的安排。",
+      "required": false
     }
   ],
   "dependencies": [
