@@ -4,7 +4,7 @@
 
 用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.3** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.5** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-main)**
 https://motiongit.com/@motiongit/motiongit-promo-main

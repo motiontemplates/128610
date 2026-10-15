@@ -4,7 +4,7 @@
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.3** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.5** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-main)**
 https://motiongit.com/@motiongit/motiongit-promo-main
