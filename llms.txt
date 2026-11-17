@@ -1,8 +1,8 @@
 # Screen Collage · Brand Story · MotionGit .motion
 
 Template and full package: https://motiongit.com/@motiongit/motiongit-promo-main
-Version: 2.6.5-alpha.1
-Download available; current terms are listed with the package.
+Version: 2.6.5-alpha.2
+Demo available. Check the official page for current download availability.
 
 Declared runtime profile: html-canvas/1.
 Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
