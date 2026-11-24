@@ -3,7 +3,7 @@
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-main
-Version: 2.6.5-alpha.3
+Version: 2.6.6-alpha.1
 Demo available. Check the official page for current download availability.
 
 ## Technical reference

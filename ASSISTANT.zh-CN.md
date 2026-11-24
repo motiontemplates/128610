@@ -3,7 +3,7 @@
 用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。
 
 模板与完整下载: https://motiongit.com/@motiongit/motiongit-promo-main
-版本: 2.6.5-alpha.3
+版本: 2.6.6-alpha.1
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
